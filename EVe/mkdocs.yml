@@ -1,0 +1,11 @@
+site_name: Emergency Village (EVe)
+pages:
+- Home: index.md
+- Framework:
+    - Introduction: framework/introduction.md 
+    - Framework: framework/framework.md
+    - Functional Units: framework/functional_units.md
+- Development Principles: development_principles.md
+- FAQs: FAQs.md
+- About: about.md
+
