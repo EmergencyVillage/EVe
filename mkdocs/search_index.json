@@ -1,0 +1,69 @@
+{
+    "docs": [
+        {
+            "location": "/", 
+            "text": "Welcome to EVe\n\n\nThe idea behind EVe is that in an emergency, rapidly deployable pop-up collections of functional modules together provide the needs of a dislocated or dispossessed local population.  This would include all necessary basics including medical supplies, food, shelter, etc.\n\n\nThe key to the success of EVe is that the functional modules are located within and throughout existing towns and cities.  This ensures exceptionally rapid access to the resources the affected community needs both when and where they need it.  No more waiting days for governments to ship in supplies from central stockpiles, with all the inherent delays involved in mobilising externally supplied emergency response teams and supply chains.  These will still need to occur but the immediate response will be done locally.  \n\n\nThe clever part is that the functional modules don't just sit unused on every street corner like unwanted steel boxes but instead form part of the community's day-to-day functioning.  For example, fold-out houses on rail systems form the basic infrastructure of the local sporting field seating system when not in use.  Battery storage systems help support the existing electricity grid. Mesh communication systems interface with centralised WiFi and mobile (cellular) networks. \n\n\nEVe is also adaptable.  Using on-the-spot manufacturing methods (such as 3D printers and rapid casting techniques), specific items of need can be created onsite without the necessary delays and poor local fit often found with centrally sourced items.\n\n\nEVe is a available free, gratis, libre to use in your local community in order to gain improved resilience in the face of large-scale emergencies.  Please see the FAQs for further information.", 
+            "title": "Home"
+        }, 
+        {
+            "location": "/#welcome-to-eve", 
+            "text": "The idea behind EVe is that in an emergency, rapidly deployable pop-up collections of functional modules together provide the needs of a dislocated or dispossessed local population.  This would include all necessary basics including medical supplies, food, shelter, etc.  The key to the success of EVe is that the functional modules are located within and throughout existing towns and cities.  This ensures exceptionally rapid access to the resources the affected community needs both when and where they need it.  No more waiting days for governments to ship in supplies from central stockpiles, with all the inherent delays involved in mobilising externally supplied emergency response teams and supply chains.  These will still need to occur but the immediate response will be done locally.    The clever part is that the functional modules don't just sit unused on every street corner like unwanted steel boxes but instead form part of the community's day-to-day functioning.  For example, fold-out houses on rail systems form the basic infrastructure of the local sporting field seating system when not in use.  Battery storage systems help support the existing electricity grid. Mesh communication systems interface with centralised WiFi and mobile (cellular) networks.   EVe is also adaptable.  Using on-the-spot manufacturing methods (such as 3D printers and rapid casting techniques), specific items of need can be created onsite without the necessary delays and poor local fit often found with centrally sourced items.  EVe is a available free, gratis, libre to use in your local community in order to gain improved resilience in the face of large-scale emergencies.  Please see the FAQs for further information.", 
+            "title": "Welcome to EVe"
+        }, 
+        {
+            "location": "/framework/introduction/", 
+            "text": "Introduction\n\n\nTBP", 
+            "title": "Introduction"
+        }, 
+        {
+            "location": "/framework/introduction/#introduction", 
+            "text": "TBP", 
+            "title": "Introduction"
+        }, 
+        {
+            "location": "/framework/framework/", 
+            "text": "About\n\n\nAbout text to go here", 
+            "title": "Framework"
+        }, 
+        {
+            "location": "/framework/framework/#about", 
+            "text": "About text to go here", 
+            "title": "About"
+        }, 
+        {
+            "location": "/framework/functional_units/", 
+            "text": "Functional units\n\n\n\n\nCoordination\n\n\nSupply\n\n\nShelter\n\n\nMedical\n\n\nMorgue\n\n\nAmenities\n\n\nWorkshop\n\n\nEntertainment", 
+            "title": "Functional Units"
+        }, 
+        {
+            "location": "/framework/functional_units/#functional-units", 
+            "text": "Coordination  Supply  Shelter  Medical  Morgue  Amenities  Workshop  Entertainment", 
+            "title": "Functional units"
+        }, 
+        {
+            "location": "/development_principles/", 
+            "text": "Determining principles by which such a system should be developed.  e.g., \n\n\n\n\nUpgradable\n\n\nExtensible\n\n\nAdaptable to be socially and culturally appropriate \n\n\nResilient to shock, change, disruption (ala the Internet)\n\n\nMulti-purpose\n\n\nRapidly deployable\n\n\nStandardised (where possible)", 
+            "title": "Development Principles"
+        }, 
+        {
+            "location": "/FAQs/", 
+            "text": "FAQs\n\n\nQ. How is this different from all other emergency response systems out there?\nA. XXX\n\n\nQ. Does our community need to implement the entire framework?\nA.\n\n\nQ. Do I need to pay anything to make use of the resources on this site?\nA. Nope, it's all free but we welcome donations.\n\n\nQ. Where do I start?\nA.\n\n\nQ. Who's going to pay for this?\nA.", 
+            "title": "FAQs"
+        }, 
+        {
+            "location": "/FAQs/#faqs", 
+            "text": "Q. How is this different from all other emergency response systems out there?\nA. XXX  Q. Does our community need to implement the entire framework?\nA.  Q. Do I need to pay anything to make use of the resources on this site?\nA. Nope, it's all free but we welcome donations.  Q. Where do I start?\nA.  Q. Who's going to pay for this?\nA.", 
+            "title": "FAQs"
+        }, 
+        {
+            "location": "/about/", 
+            "text": "About\n\n\nAbout text to go here", 
+            "title": "About"
+        }, 
+        {
+            "location": "/about/#about", 
+            "text": "About text to go here", 
+            "title": "About"
+        }
+    ]
+}

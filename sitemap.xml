@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+    
+    <url>
+     <loc>/</loc>
+     <lastmod>2018-01-07</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+        
+    <url>
+     <loc>/framework/introduction/</loc>
+     <lastmod>2018-01-07</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/framework/framework/</loc>
+     <lastmod>2018-01-07</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/framework/functional_units/</loc>
+     <lastmod>2018-01-07</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    
+
+    
+    <url>
+     <loc>/development_principles/</loc>
+     <lastmod>2018-01-07</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/FAQs/</loc>
+     <lastmod>2018-01-07</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/about/</loc>
+     <lastmod>2018-01-07</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+</urlset>
